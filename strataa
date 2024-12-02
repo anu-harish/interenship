@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Strata</title>
+</head>
+<body>
+    <img src="https://html5up.net/uploads/demos/strata/#"/>
+  <h1><strong>I am Strata</strong>, a super simple<br>
+        responsive site template freebie<br>
+        crafted by <a href="#">HTML5 UP.</a> </h1>
+  <ul>
+    <li><a href="#">Twitter</a></li>
+    <li><a href="#">Github</a></li>
+    <li><a href="#">Dribbble</a></li>
+    <li><a href="">Email</a></li><br>
+    <br>
+    <li>© Untitled</li>
+    <li>Design:<a href="#">HTML5 UP</a></li>
+    <li>Demo Images:<a href="#">Unsplash</a></li>
+  </ul>
+  <h2>Ipsum lorem dolor aliquam ante commodo<br>
+magna sed accumsan arcu neque.</h2>
+  <p>Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae lobortis tortor primis integer massa adipiscing id nisi accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque cubilia.</p>
+  <ul><li><a href="#">Learn More</a></li></ul>
+  <h2>Recent Work</h2>
+  <img src="https://html5up.net/uploads/demos/strata/images/thumbs/01.jpg">
+  <h3>Magna sed consequat tempus</h3>
+  <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+  <img src="https://html5up.net/uploads/demos/strata/images/thumbs/02.jpg">
+  <h3>Ultricies lacinia interdum</h3>
+  <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+  <img src="https://html5up.net/uploads/demos/strata/images/fulls/03.jpg" width="375">
+  <h3>Tortor metus commodo</h3>
+  <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+  <img src="https://html5up.net/uploads/demos/strata/images/thumbs/04.jpg">
+  <h3>Quam neque phasellus</h3>
+  <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+  <img src="https://html5up.net/uploads/demos/strata/images/thumbs/05.jpg">
+  <h3>Nunc enim commodo aliquet</h3>
+  <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+  <img src="https://html5up.net/uploads/demos/strata/images/thumbs/06.jpg">
+  <h3>Risus ornare laciniat</h3>
+  <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
+  <ul>
+    <li><a href="#">Full portfolio</a></li>
+  </ul>
+  <h2>Get In Touch</h2>
+  <p>Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor.</p>
+  <label for="name"><input type="name" placeholder="Name"></label><br>
+  <label for="email"><input type="email" placeholder="Email"></label><br>
+  <textarea placeholder="Message" rows="5" cols="20"></textarea>
+  <ul><li><button type="button">Sendmessage</button></li></ul>
+  <h3> <ul><li><b>Address</b></li></ul></h3>
+    <p>1234 Somewhere Rd.
+      <br>Nashville, TN 00000
+      <br>United States</p>
+  <h3> <ul><li><b>Phone</b></li></ul></h3>
+        000-000-0000
+  <h3><ul><li><b>Email</b></li></ul></h3>
+  <a href="#">hello@untitled.tld</a>
+</body>
+</html>
