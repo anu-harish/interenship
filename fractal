@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fractal</title>
+</head>
+<body>
+  <h1><a href="#">Fractal</a></h1>
+  <p>ust a simple, single page responsive<br>
+    template brought to you by <a href="#">HTML5 UP</a></p>
+  <ul>
+   <li><a href="#">Download</a></li>
+    <li><a href="#">Learn More</a></li></ul>
+  <br> <img src="https://html5up.net/uploads/demos/fractal/images/screen.jpg">   <h2>Sed ipsum magna lorem tempus amet<br>
+vehicula et gravida elementum</h2>
+    <ul>
+      <li>Shoot</li>
+      <li>Process</li>
+      <li>Upload</li>
+      </ul>
+  <img src="https://html5up.net/uploads/demos/fractal/images/pic01.jpg">
+  <h3>Magna sed ultrices</h3>
+  <p>Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum elit fusce accumsan dui libero, quis vehicula lectus ultricies eu. In convallis amet leo non sapien iaculis efficitur consequat lorem ipsum.</p>
+  <img src="https://html5up.net/uploads/demos/fractal/images/pic02.jpg">
+  <h3>Ultrices nullam aliquam</h3>
+  <p>Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum elit fusce accumsan dui libero, quis vehicula lectus ultricies eu. In convallis amet leo non sapien iaculis efficitur consequat lorem ipsum.</p>
+  <img src="https://html5up.net/uploads/demos/fractal/images/pic03.jpg">
+  <h3>Aliquam sed magna</h3>
+  <p>Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum elit fusce accumsan dui libero, quis vehicula lectus ultricies eu. In convallis amet leo non sapien iaculis efficitur consequat lorem ipsum.</p>
+  <ul>
+    <li>Ipsum lorem accumsan</li>
+    <li>Sed vehicula elementum</li>
+    <li>Elit fusce consequat</li>
+    <li>Lorem nullam tempus</li>
+    <li>Adipiscing amet sapien</li>
+  </ul>
+  <h2>Magna leo sapien gravida</h2>
+  <p>Gravida at leo elementum elit fusce accumsan dui libero, quis vehicula<br>
+lectus ultricies eu. In convallis amet leo sapien iaculis efficitur.</p>
+  <ul>
+    <li><a href="#">download</a></li>
+    <li><a href="#">Learn More</a></li><br>
+   <br> <li><a href="#">facebook</a></li>
+    <li><a href="#">Twitter</a></li>
+    <li><a href="#">Instagram</a></li>
+  </ul>
+  <p>© Untitled. Credits:<a href="#"> HTML5 UP</a> +<a href="#"> Unsplash</a></p>
+</body>
+</html>
