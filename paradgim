@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>paragrim</title>
+  <link rel="stylesheet" href="stylesheets.css">
+</head>
+<body>
+  <h2>Paradigm Shift</h2>
+  <p>A free responsive site template designed by <a href="#">@ajlkn</a> /<a href="#"> HTML5 UP</a></p>
+  <ul><li><a href="#">Next</a></li></ul>
+  <img src="https://html5up.net/uploads/demos/paradigm-shift/images/pic01.jpg">
+  <h2>Magna sed nullam nisl adipiscing</h2>
+  <p><b>Lorem ipsum dolor</b> sit amet consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor amet fermentum. Nullam venenatis erat id vehicula ultrices sed ultricies condimentum. Magna sed etiam consequat, et lorem adipiscing sed nulla. Volutpat nisl et tempus et dolor libero, feugiat magna tempus, sed et lorem adipiscing.</p>
+  <img src="https://html5up.net/uploads/demos/paradigm-shift/images/pic02.jpg">
+  <h2>Feugiat consequat tempus ultrices</h2>
+  <p><b>Etiam tristique libero</b> eu nibh porttitor amet fermentum. Nullam venenatis erat id vehicula ultrices sed ultricies condimentum.</p>
+  <ul>
+    <li>Consequat tempus</li>
+    <li>Etiam adipiscing</li>
+    <li>Libero nullam</li>
+    <li>Blandit condimentum</li>
+    <li>Lorem ipsum dolor</li>
+    <li>Nibh amet venenatis</li>
+  </ul>
+  <p>Vehicula ultrices sed ultricies condimentum. Magna sed etiam consequat, et lorem adipiscing sed nulla. Volutpat nisl et tempus et dolor libero, feugiat magna tempus, sed et lorem adipiscing.</p>
+  <h2>Ultrices erat magna sed condimentum</h2>
+  <p><b>Integer mollis egestas</b> nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>
+  <h3>Erat aliquam</h3>
+  <p>Vehicula ultrices dolor amet ultricies et condimentum. Magna sed etiam consequat, et lorem adipiscing sed dolor sit amet, consectetur amet do eiusmod tempor incididunt ipsum suspendisse ultrices gravida.</p>
+  <img src="https://html5up.net/uploads/demos/paradigm-shift/images/gallery/fulls/01.jpg">
+  <img src="https://html5up.net/uploads/demos/paradigm-shift/images/gallery/fulls/02.jpg">
+  <img src="https://html5up.net/uploads/demos/paradigm-shift/images/gallery/fulls/03.jpg">
+  <img src="https://html5up.net/uploads/demos/paradigm-shift/images/gallery/fulls/04.jpg">
+  <h3>Nisl consequat</h3>
+  <p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam sed facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet mauris. Ut magna finibus nisi nec lacinia ipsum maximus.</p>
+  <img src="https://html5up.net/uploads/demos/paradigm-shift/images/gallery/fulls/05.jpg">
+  <img src="https://html5up.net/uploads/demos/paradigm-shift/images/gallery/fulls/06.jpg">
+  <img src="https://html5up.net/uploads/demos/paradigm-shift/images/gallery/fulls/07.jpg">
+  <h3>Lorem gravida</h3>
+  <p>Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aenean ornare velit lacus, ac varius sed enim lorem ullamcorper dolore. ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis.</p>
+  <img src="https://html5up.net/uploads/demos/paradigm-shift/images/gallery/fulls/08.jpg">
+  <img src="https://html5up.net/uploads/demos/paradigm-shift/images/gallery/fulls/09.jpg">
+  <img src="https://html5up.net/uploads/demos/paradigm-shift/images/gallery/fulls/10.jpg">
+  <h2>Duis sed adpiscing veroeros amet</h2>
+  <p><b>Proin tempus feugiat</b> sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore.</p>
+  <ul>
+    <li><a href="#">Get started</a></li>
+    <li><a href="#">Learn More</a></li>
+  </ul>
+  <h2>Get in touch</h2>
+  <p><b>Auctor commodo</b> interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.</p>
+  <label for="name"><input type="name" placeholder="name"><br>
+  <label for="email"><input type="email" placeholder="email"><br>
+    <textarea placeholder="Message"></textarea>
+    <ul><li><button type="button">sendmessage</button></li></ul>
+    <ul><li><b>Email</b></li></ul>
+    <a href="#">information@untitled.ext</a>
+    <ul><li><b>Phone</b></li></ul>
+    <a href="#">(000)000-000</a>
+    <ul><li><b>Address</b></li></ul>
+    <p>1234 Somewhere Road, Nashville, TN 00000</p>
+    <ul><li><b>Elsewhere</b></li></ul>
+    <ul style="list-style-type:circle;">
+      <li><a href="#">Twitter</a></li>
+      <li><a href="#">Facebook</a></li>
+      <li><a href="#">Intagram</a></li>
+      <li><a href="#">Linkedin</a></li>
+      <li><a href="#">Github</a></li>
+      <li><a href="#">Codepen</a></li></ul>
+    <p>© Untitled. All rights reserved. Design:<a href="#">HTML5 UP.</a> Demo Images: <a href="#">Unsplash. </a></p>
+</body>
+</html>
